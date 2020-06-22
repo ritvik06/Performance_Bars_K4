@@ -6,3 +6,6 @@ time_redirect: %{time_redirect}
 time_starttransfer: %{time_starttransfer}
 ———
 time_total: %{time_total}
+---
+size_download: %{size_download}
+size_request: %{size_request}
