@@ -7,7 +7,7 @@ do
  ./curltime.sh $1 > log.txt
  sleep 3
 echo "Ping $i"
- ./run
+ node throughput.js
  sleep 2
 
  #TODO
