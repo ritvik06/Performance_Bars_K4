@@ -28,6 +28,6 @@ int main(){
 
     if(connect-lookup!=0) cout << "RTT : " << (connect-lookup)*1000 << " ms" << endl;
     else cout << "RTT : 3000 ms" << endl;
-
+   
     return 0;
 }

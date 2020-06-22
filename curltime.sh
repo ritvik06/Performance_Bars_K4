@@ -9,6 +9,8 @@ curl -w @- -o /dev/null -s "$@" <<'EOF'
    time_pretransfer:  %{time_pretransfer}\n
    time_redirect:  %{time_redirect}\n
    time_starttransfer:  %{time_starttransfer}\n
+   size_download: %{size_download}\n
+   size_request: %{size_request}\n
                     ----------\n
 
 EOF

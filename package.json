@@ -1,0 +1,22 @@
+{
+  "name": "performance_bars_k4",
+  "version": "1.0.0",
+  "description": "extracting bps for a simple file transfer",
+  "main": "throughput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritvik06/Performance_Bars_K4.git"
+  },
+  "author": "bhargav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritvik06/Performance_Bars_K4/issues"
+  },
+  "homepage": "https://github.com/ritvik06/Performance_Bars_K4#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
