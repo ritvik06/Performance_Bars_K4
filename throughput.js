@@ -12,9 +12,9 @@ fs.readFile('./log.txt', 'utf8', function(err, contents) {
   let downloadSize = curlString.match( /size_download:\s+(.*)(?:\r|\n|$)/i )
   downloadSize = parseFloat(downloadSize[1])
 
-  console.log('total time: '+totalTime)
-  console.log('time to start transfer: '+timeStartTransfer)
-  console.log('download size: '+downloadSize)
-  let throughPut = (downloadSize)/(totalTime - timeStartTransfer)
-  console.log('throughput is '+throughPut+' bytes per second')
+  //console.log('total time: '+totalTime)
+  //console.log('time to start transfer: '+timeStartTransfer)
+  //console.log('download size: '+downloadSize)
+  let throughPut = ((downloadSize*8)/(totalTime - timeStartTransfer))/(1000000)
+  console.log('Throughput: '+throughPut+' Mbps')
 });
