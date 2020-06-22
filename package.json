@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ritvik06/Performance_Bars_K4.git"
+    "url": "git+https://github.com/dihelium/Performance_Bars_K4.git"
   },
   "author": "bhargav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ritvik06/Performance_Bars_K4/issues"
+    "url": "https://github.com/dihelium/Performance_Bars_K4/issues"
   },
-  "homepage": "https://github.com/ritvik06/Performance_Bars_K4#readme",
+  "homepage": "https://github.com/dihelium/Performance_Bars_K4#readme",
   "dependencies": {
     "fs": "0.0.1-security"
   }
