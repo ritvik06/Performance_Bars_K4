@@ -1,0 +1,10 @@
+   time_total:  1.870763
+   time_namelookup:  0.002500
+   time_connect:  0.172632
+   time_appconnect:  0.000000
+   time_pretransfer:  0.172736
+   time_redirect:  0.000000
+   time_starttransfer:  0.342166
+   size_download: 1048576
+   size_request: 90
+                    ----------
