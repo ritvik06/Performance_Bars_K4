@@ -1,0 +1,7 @@
+------------------------------------------------------------
+Client connecting to ping.online.net, TCP port 80
+TCP window size:  129 KByte (default)
+------------------------------------------------------------
+[  6] local 192.168.1.15 port 62962 connected with 62.210.18.40 port 80
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0- 2.0 sec   128 KBytes   523 Kbits/sec
