@@ -1,0 +1,6 @@
+Ping 1
+RTT : 327.51 ms
+Ping 1
+RTT : 347.598 ms
+Ping 1
+RTT : 276.39 ms
